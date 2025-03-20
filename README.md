@@ -146,4 +146,5 @@ Feedstock Maintainers
 =====================
 
 * [@bollwyvl](https://github.com/bollwyvl/)
+* [@conda-forge/taplo](https://github.com/orgs/conda-forge/teams/taplo/)
 
